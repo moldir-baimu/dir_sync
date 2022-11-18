@@ -1,4 +1,4 @@
-# dir_sync
+# synchronization of two folders
 
 
 Example:
